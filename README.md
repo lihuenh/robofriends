@@ -6,8 +6,8 @@ The propouse of this app is just to practice React. The fundamentals of this bea
 
 ## Steps for use this app
 
-clone the repository
+- `clone the repository`
 
-npm install
+- `npm install`
 
-npm start
+- `npm start`
