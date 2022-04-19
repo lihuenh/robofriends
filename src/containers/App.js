@@ -47,6 +47,7 @@ class App extends Component {
         <Scroll>
           <ErrorBoundry>
             <CardList robots={filterRobots} />
+            {console.log("Lucho gay")}
           </ErrorBoundry>
         </Scroll>
       </div>
